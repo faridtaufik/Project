@@ -1,4 +1,4 @@
-# Project
+# Project (Revisi)
 Project Dilo Game Academy (Pong)
 
 Untuk mengunduh project dan Project stand Alonenya klik Button Code yang berwarna hijau
